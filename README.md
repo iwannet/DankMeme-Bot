@@ -3,7 +3,7 @@ This bot auto farms dank meme coins.
 
 ## Download
 
-Download the zip of the folder [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fiwannet%2FProjects%2Ftree%2Fmain%2FDankmeme_bot)
+Download the zip of the folder [here](https://github.com/iwannet/DankMeme-Bot/archive/refs/heads/main.zip)
 
 ## Installation
 
@@ -18,4 +18,4 @@ Download the zip of the folder [here](https://download-directory.github.io/?url=
 
 ## Credits
 
-Make sure to give credits to [me](https://iwannet.github.io/)
+Make sure to give credits to [me](https://iwannet.cc)
